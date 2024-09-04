@@ -1,0 +1,11 @@
+
+# Welcome to Java
+
+public class JavaFive {
+    public static void main(String[] args) {
+        // Display "Welcome to Java" five times
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Welcome to Java");
+        }
+    }
+}
